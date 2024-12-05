@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# wget https://raw.githubusercontent.com/arleneshiba/scripts/refs/heads/main/rootback.sh && chmod +x rootback.sh && bash rootback.sh
 # Переменные
 SSH_CONFIG="/etc/ssh/sshd_config"
 CLOUD_INIT_CONFIG="/etc/ssh/sshd_config.d/50-cloud-init.conf"
